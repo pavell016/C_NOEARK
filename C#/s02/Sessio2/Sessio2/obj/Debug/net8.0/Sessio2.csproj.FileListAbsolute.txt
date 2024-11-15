@@ -1,0 +1,14 @@
+F:\DAM\C#\s02\Sessio2\Sessio2\bin\Debug\net8.0\Sessio2.exe
+F:\DAM\C#\s02\Sessio2\Sessio2\bin\Debug\net8.0\Sessio2.deps.json
+F:\DAM\C#\s02\Sessio2\Sessio2\bin\Debug\net8.0\Sessio2.runtimeconfig.json
+F:\DAM\C#\s02\Sessio2\Sessio2\bin\Debug\net8.0\Sessio2.dll
+F:\DAM\C#\s02\Sessio2\Sessio2\bin\Debug\net8.0\Sessio2.pdb
+F:\DAM\C#\s02\Sessio2\Sessio2\obj\Debug\net8.0\Sessio2.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\C#\s02\Sessio2\Sessio2\obj\Debug\net8.0\Sessio2.AssemblyInfoInputs.cache
+F:\DAM\C#\s02\Sessio2\Sessio2\obj\Debug\net8.0\Sessio2.AssemblyInfo.cs
+F:\DAM\C#\s02\Sessio2\Sessio2\obj\Debug\net8.0\Sessio2.csproj.CoreCompileInputs.cache
+F:\DAM\C#\s02\Sessio2\Sessio2\obj\Debug\net8.0\Sessio2.dll
+F:\DAM\C#\s02\Sessio2\Sessio2\obj\Debug\net8.0\refint\Sessio2.dll
+F:\DAM\C#\s02\Sessio2\Sessio2\obj\Debug\net8.0\Sessio2.pdb
+F:\DAM\C#\s02\Sessio2\Sessio2\obj\Debug\net8.0\Sessio2.genruntimeconfig.cache
+F:\DAM\C#\s02\Sessio2\Sessio2\obj\Debug\net8.0\ref\Sessio2.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DAM\\C#\\S01-1\\Sessio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C59A8E4-E144-4F30-8282-C0E3B04F7ACF}|Sessio1\\Sessio1.csproj|f:\\dam\\c#\\s01-1\\sessio1\\sessio1\\readme.rm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C59A8E4-E144-4F30-8282-C0E3B04F7ACF}|Sessio1\\Sessio1.csproj|solutionrelative:sessio1\\readme.rm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C59A8E4-E144-4F30-8282-C0E3B04F7ACF}|Sessio1\\Sessio1.csproj|f:\\dam\\c#\\s01-1\\sessio1\\sessio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C59A8E4-E144-4F30-8282-C0E3B04F7ACF}|Sessio1\\Sessio1.csproj|solutionrelative:sessio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.rm",
+              "DocumentMoniker": "F:\\DAM\\C#\\S01-1\\Sessio1\\Sessio1\\Readme.rm",
+              "RelativeDocumentMoniker": "Sessio1\\Readme.rm",
+              "ToolTip": "F:\\DAM\\C#\\S01-1\\Sessio1\\Sessio1\\Readme.rm",
+              "RelativeToolTip": "Sessio1\\Readme.rm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-01T17:34:24.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DAM\\C#\\S01-1\\Sessio1\\Sessio1\\Program.cs",
+              "RelativeDocumentMoniker": "Sessio1\\Program.cs",
+              "ToolTip": "F:\\DAM\\C#\\S01-1\\Sessio1\\Sessio1\\Program.cs",
+              "RelativeToolTip": "Sessio1\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwHEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:23:37.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

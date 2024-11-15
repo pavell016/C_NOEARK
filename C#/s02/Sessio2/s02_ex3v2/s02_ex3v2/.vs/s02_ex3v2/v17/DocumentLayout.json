@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DAM\\C#\\s02\\Sessio2\\s02_ex3v2\\s02_ex3v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF75E59F-7563-444A-B0E3-E7B8B8B26E55}|s02_ex3v2\\s02_ex3v2.csproj|f:\\dam\\c#\\s02\\sessio2\\s02_ex3v2\\s02_ex3v2\\s02_ex3v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF75E59F-7563-444A-B0E3-E7B8B8B26E55}|s02_ex3v2\\s02_ex3v2.csproj|solutionrelative:s02_ex3v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DAM\\C#\\s02\\Sessio2\\s02_ex3v2\\s02_ex3v2\\s02_ex3v2\\Program.cs",
+              "RelativeDocumentMoniker": "s02_ex3v2\\Program.cs",
+              "ToolTip": "F:\\DAM\\C#\\s02\\Sessio2\\s02_ex3v2\\s02_ex3v2\\s02_ex3v2\\Program.cs",
+              "RelativeToolTip": "s02_ex3v2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:46:00.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

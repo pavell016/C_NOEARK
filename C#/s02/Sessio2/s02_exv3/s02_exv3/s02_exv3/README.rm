@@ -1,0 +1,34 @@
+using static System.Console;
+
+var autoResetEvent = new AutoResetEvent(false);
+
+void DoWork()
+{
+    WriteLine($"Thread {Thread.CurrentThread.ManagedThreadId} is waiting for the event to be signaled...");
+
+    // Wait for the event to be signaled
+    autoResetEvent.WaitOne();
+
+    WriteLine($"Thread {Thread.CurrentThread.ManagedThreadId} has been signaled and has resumed execution.");
+}
+
+// Create a thread that wait for the event to be signaled and start it
+var t = new Thread(() => DoWork());
+t.Start();
+
+// Wait for 1s to let the thread runs for a while 
+Thread.Sleep(1000);
+
+// Wait for 2s before signaling the event
+WriteLine("Waiting for 2 seconds before signaling the event...");
+Thread.Sleep(2000);
+
+
+// Signal the event
+autoResetEvent.Set();
+
+// Wait for the threads to finish
+t.Join();
+
+WriteLine("Press any key to exit.");
+ReadKey();

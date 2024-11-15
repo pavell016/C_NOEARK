@@ -1,0 +1,14 @@
+F:\DAM\C#\trens\TRENS\TRENS\bin\Debug\net8.0\TRENS.exe
+F:\DAM\C#\trens\TRENS\TRENS\bin\Debug\net8.0\TRENS.deps.json
+F:\DAM\C#\trens\TRENS\TRENS\bin\Debug\net8.0\TRENS.runtimeconfig.json
+F:\DAM\C#\trens\TRENS\TRENS\bin\Debug\net8.0\TRENS.dll
+F:\DAM\C#\trens\TRENS\TRENS\bin\Debug\net8.0\TRENS.pdb
+F:\DAM\C#\trens\TRENS\TRENS\obj\Debug\net8.0\TRENS.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\C#\trens\TRENS\TRENS\obj\Debug\net8.0\TRENS.AssemblyInfoInputs.cache
+F:\DAM\C#\trens\TRENS\TRENS\obj\Debug\net8.0\TRENS.AssemblyInfo.cs
+F:\DAM\C#\trens\TRENS\TRENS\obj\Debug\net8.0\TRENS.csproj.CoreCompileInputs.cache
+F:\DAM\C#\trens\TRENS\TRENS\obj\Debug\net8.0\TRENS.dll
+F:\DAM\C#\trens\TRENS\TRENS\obj\Debug\net8.0\refint\TRENS.dll
+F:\DAM\C#\trens\TRENS\TRENS\obj\Debug\net8.0\TRENS.pdb
+F:\DAM\C#\trens\TRENS\TRENS\obj\Debug\net8.0\TRENS.genruntimeconfig.cache
+F:\DAM\C#\trens\TRENS\TRENS\obj\Debug\net8.0\ref\TRENS.dll

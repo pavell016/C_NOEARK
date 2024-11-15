@@ -1,0 +1,57 @@
+Threads in C# might not be executed all at the same time BE CAREFULL
+
+Take this project as an example and execute it multiple times, the program executes normaly but sometimes the numbers might be 
+side to side even if you have added a space between them
+
+Threads runtime depends on the CPU available on that noment, very rearly it will execute at the same time, remember 
+ONE COMAND AT A TIME
+
+
+BE EXTREAMLY CAREFULL WHEN USING THREADS
+
+THE MAIN THREAD WILL ALWAYS RUN FASTER THAN THE THREADS
+
+(threads take more time to create)
+
+START
+|
+|
+HelloWorld
+|\
+| \
+|  \
+|   \
+|    \
+|    Go
+Go   |
+|    Go
+Go   |
+|    Go
+Go   |
+|    Go
+|   /
+|  /
+| /
+|/
+|
+|
+FINISH
+
+
+to CONTROL a bit when a thread ends wu must use the method "join()"
+
+
+
+EXERCICE:
+
+use C# to do this tasks, use threads for the tasks you do simultanley
+use methods for every tasks
+Make the necessary flowchart
+add tasks if youre dayly routine is diferent
+
+tasks:
+1-WakeUp
+2-Shower
+3-Brekfast
+4-DressUp
+5-Listen to music

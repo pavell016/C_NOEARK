@@ -1,0 +1,14 @@
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\bin\Debug\net8.0\optimitzar.exe
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\bin\Debug\net8.0\optimitzar.deps.json
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\bin\Debug\net8.0\optimitzar.runtimeconfig.json
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\bin\Debug\net8.0\optimitzar.dll
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\bin\Debug\net8.0\optimitzar.pdb
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\obj\Debug\net8.0\optimitzar.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\obj\Debug\net8.0\optimitzar.AssemblyInfoInputs.cache
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\obj\Debug\net8.0\optimitzar.AssemblyInfo.cs
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\obj\Debug\net8.0\optimitzar.csproj.CoreCompileInputs.cache
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\obj\Debug\net8.0\optimitzar.dll
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\obj\Debug\net8.0\refint\optimitzar.dll
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\obj\Debug\net8.0\optimitzar.pdb
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\obj\Debug\net8.0\optimitzar.genruntimeconfig.cache
+F:\DAM\C#\so4\optimitzacio\optimitzar\optimitzar\obj\Debug\net8.0\ref\optimitzar.dll

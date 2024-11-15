@@ -1,0 +1,14 @@
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\bin\Debug\net8.0\s02_ex5.exe
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\bin\Debug\net8.0\s02_ex5.deps.json
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\bin\Debug\net8.0\s02_ex5.runtimeconfig.json
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\bin\Debug\net8.0\s02_ex5.dll
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\bin\Debug\net8.0\s02_ex5.pdb
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\obj\Debug\net8.0\s02_ex5.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\obj\Debug\net8.0\s02_ex5.AssemblyInfoInputs.cache
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\obj\Debug\net8.0\s02_ex5.AssemblyInfo.cs
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\obj\Debug\net8.0\s02_ex5.csproj.CoreCompileInputs.cache
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\obj\Debug\net8.0\s02_ex5.dll
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\obj\Debug\net8.0\refint\s02_ex5.dll
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\obj\Debug\net8.0\s02_ex5.pdb
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\obj\Debug\net8.0\s02_ex5.genruntimeconfig.cache
+F:\DAM\C#\s02\Sessio2\s02_ex5\s02_ex5\s02_ex5\obj\Debug\net8.0\ref\s02_ex5.dll

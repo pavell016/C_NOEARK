@@ -1,0 +1,14 @@
+F:\DAM\C#\s03\S03\S03\obj\Debug\net8.0\S03.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\C#\s03\S03\S03\obj\Debug\net8.0\S03.AssemblyInfoInputs.cache
+F:\DAM\C#\s03\S03\S03\obj\Debug\net8.0\S03.AssemblyInfo.cs
+F:\DAM\C#\s03\S03\S03\obj\Debug\net8.0\S03.csproj.CoreCompileInputs.cache
+F:\DAM\C#\s03\S03\S03\bin\Debug\net8.0\S03.exe
+F:\DAM\C#\s03\S03\S03\bin\Debug\net8.0\S03.deps.json
+F:\DAM\C#\s03\S03\S03\bin\Debug\net8.0\S03.runtimeconfig.json
+F:\DAM\C#\s03\S03\S03\bin\Debug\net8.0\S03.dll
+F:\DAM\C#\s03\S03\S03\bin\Debug\net8.0\S03.pdb
+F:\DAM\C#\s03\S03\S03\obj\Debug\net8.0\S03.dll
+F:\DAM\C#\s03\S03\S03\obj\Debug\net8.0\refint\S03.dll
+F:\DAM\C#\s03\S03\S03\obj\Debug\net8.0\S03.pdb
+F:\DAM\C#\s03\S03\S03\obj\Debug\net8.0\S03.genruntimeconfig.cache
+F:\DAM\C#\s03\S03\S03\obj\Debug\net8.0\ref\S03.dll

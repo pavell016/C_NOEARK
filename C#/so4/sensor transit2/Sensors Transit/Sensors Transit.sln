@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensors Transit", "Sensors Transit\Sensors Transit.csproj", "{0F11D638-9DF3-4FBC-A26E-F7300C0CBC67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F11D638-9DF3-4FBC-A26E-F7300C0CBC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F11D638-9DF3-4FBC-A26E-F7300C0CBC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F11D638-9DF3-4FBC-A26E-F7300C0CBC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F11D638-9DF3-4FBC-A26E-F7300C0CBC67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC2DA9A-D852-4090-8CC2-5A796155A985}
+	EndGlobalSection
+EndGlobal

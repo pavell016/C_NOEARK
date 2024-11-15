@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DAM\\C#\\s02\\Sessio2\\s02_exv3\\s02_exv3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDCECAB-6FE3-4637-9CCD-1934C03EB424}|s02_exv3\\s02_exv3.csproj|f:\\dam\\c#\\s02\\sessio2\\s02_exv3\\s02_exv3\\s02_exv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDCECAB-6FE3-4637-9CCD-1934C03EB424}|s02_exv3\\s02_exv3.csproj|solutionrelative:s02_exv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDCECAB-6FE3-4637-9CCD-1934C03EB424}|s02_exv3\\s02_exv3.csproj|f:\\dam\\c#\\s02\\sessio2\\s02_exv3\\s02_exv3\\s02_exv3\\readme.rm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DCDCECAB-6FE3-4637-9CCD-1934C03EB424}|s02_exv3\\s02_exv3.csproj|solutionrelative:s02_exv3\\readme.rm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.rm",
+              "DocumentMoniker": "F:\\DAM\\C#\\s02\\Sessio2\\s02_exv3\\s02_exv3\\s02_exv3\\README.rm",
+              "RelativeDocumentMoniker": "s02_exv3\\README.rm",
+              "ToolTip": "F:\\DAM\\C#\\s02\\Sessio2\\s02_exv3\\s02_exv3\\s02_exv3\\README.rm",
+              "RelativeToolTip": "s02_exv3\\README.rm",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-08T23:31:22.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DAM\\C#\\s02\\Sessio2\\s02_exv3\\s02_exv3\\s02_exv3\\Program.cs",
+              "RelativeDocumentMoniker": "s02_exv3\\Program.cs",
+              "ToolTip": "F:\\DAM\\C#\\s02\\Sessio2\\s02_exv3\\s02_exv3\\s02_exv3\\Program.cs",
+              "RelativeToolTip": "s02_exv3\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:21:04.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

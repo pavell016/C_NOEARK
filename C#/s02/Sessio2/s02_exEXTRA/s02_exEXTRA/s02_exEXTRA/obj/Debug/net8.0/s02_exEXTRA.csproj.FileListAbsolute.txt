@@ -1,0 +1,14 @@
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\bin\Debug\net8.0\s02_exEXTRA.exe
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\bin\Debug\net8.0\s02_exEXTRA.deps.json
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\bin\Debug\net8.0\s02_exEXTRA.runtimeconfig.json
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\bin\Debug\net8.0\s02_exEXTRA.dll
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\bin\Debug\net8.0\s02_exEXTRA.pdb
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\obj\Debug\net8.0\s02_exEXTRA.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\obj\Debug\net8.0\s02_exEXTRA.AssemblyInfoInputs.cache
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\obj\Debug\net8.0\s02_exEXTRA.AssemblyInfo.cs
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\obj\Debug\net8.0\s02_exEXTRA.csproj.CoreCompileInputs.cache
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\obj\Debug\net8.0\s02_exEXTRA.dll
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\obj\Debug\net8.0\refint\s02_exEXTRA.dll
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\obj\Debug\net8.0\s02_exEXTRA.pdb
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\obj\Debug\net8.0\s02_exEXTRA.genruntimeconfig.cache
+F:\DAM\C#\s02\Sessio2\s02_exEXTRA\s02_exEXTRA\s02_exEXTRA\obj\Debug\net8.0\ref\s02_exEXTRA.dll

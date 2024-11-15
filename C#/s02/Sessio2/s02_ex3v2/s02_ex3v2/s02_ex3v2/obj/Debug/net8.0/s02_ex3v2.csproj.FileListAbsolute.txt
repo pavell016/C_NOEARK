@@ -1,0 +1,14 @@
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\bin\Debug\net8.0\s02_ex3v2.exe
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\bin\Debug\net8.0\s02_ex3v2.deps.json
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\bin\Debug\net8.0\s02_ex3v2.runtimeconfig.json
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\bin\Debug\net8.0\s02_ex3v2.dll
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\bin\Debug\net8.0\s02_ex3v2.pdb
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\obj\Debug\net8.0\s02_ex3v2.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\obj\Debug\net8.0\s02_ex3v2.AssemblyInfoInputs.cache
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\obj\Debug\net8.0\s02_ex3v2.AssemblyInfo.cs
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\obj\Debug\net8.0\s02_ex3v2.csproj.CoreCompileInputs.cache
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\obj\Debug\net8.0\s02_ex3v2.dll
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\obj\Debug\net8.0\refint\s02_ex3v2.dll
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\obj\Debug\net8.0\s02_ex3v2.pdb
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\obj\Debug\net8.0\s02_ex3v2.genruntimeconfig.cache
+F:\DAM\C#\s02\Sessio2\s02_ex3v2\s02_ex3v2\s02_ex3v2\obj\Debug\net8.0\ref\s02_ex3v2.dll

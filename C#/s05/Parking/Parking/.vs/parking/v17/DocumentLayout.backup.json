@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DAM\\C#\\s05\\Parking\\Parking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86030514-A4F6-4D40-ABA5-A51A62AFE10A}|parking\\parking.csproj|f:\\dam\\c#\\s05\\parking\\parking\\parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86030514-A4F6-4D40-ABA5-A51A62AFE10A}|parking\\parking.csproj|solutionrelative:parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DAM\\C#\\s05\\Parking\\Parking\\parking\\Program.cs",
+              "RelativeDocumentMoniker": "parking\\Program.cs",
+              "ToolTip": "F:\\DAM\\C#\\s05\\Parking\\Parking\\parking\\Program.cs",
+              "RelativeToolTip": "parking\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:54:36.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

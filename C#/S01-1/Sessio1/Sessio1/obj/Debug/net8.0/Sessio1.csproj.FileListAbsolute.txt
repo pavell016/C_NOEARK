@@ -1,0 +1,14 @@
+F:\DAM\C#\S01-1\Sessio1\Sessio1\bin\Debug\net8.0\Sessio1.exe
+F:\DAM\C#\S01-1\Sessio1\Sessio1\bin\Debug\net8.0\Sessio1.deps.json
+F:\DAM\C#\S01-1\Sessio1\Sessio1\bin\Debug\net8.0\Sessio1.runtimeconfig.json
+F:\DAM\C#\S01-1\Sessio1\Sessio1\bin\Debug\net8.0\Sessio1.dll
+F:\DAM\C#\S01-1\Sessio1\Sessio1\bin\Debug\net8.0\Sessio1.pdb
+F:\DAM\C#\S01-1\Sessio1\Sessio1\obj\Debug\net8.0\Sessio1.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\C#\S01-1\Sessio1\Sessio1\obj\Debug\net8.0\Sessio1.AssemblyInfoInputs.cache
+F:\DAM\C#\S01-1\Sessio1\Sessio1\obj\Debug\net8.0\Sessio1.AssemblyInfo.cs
+F:\DAM\C#\S01-1\Sessio1\Sessio1\obj\Debug\net8.0\Sessio1.csproj.CoreCompileInputs.cache
+F:\DAM\C#\S01-1\Sessio1\Sessio1\obj\Debug\net8.0\Sessio1.dll
+F:\DAM\C#\S01-1\Sessio1\Sessio1\obj\Debug\net8.0\refint\Sessio1.dll
+F:\DAM\C#\S01-1\Sessio1\Sessio1\obj\Debug\net8.0\Sessio1.pdb
+F:\DAM\C#\S01-1\Sessio1\Sessio1\obj\Debug\net8.0\Sessio1.genruntimeconfig.cache
+F:\DAM\C#\S01-1\Sessio1\Sessio1\obj\Debug\net8.0\ref\Sessio1.dll

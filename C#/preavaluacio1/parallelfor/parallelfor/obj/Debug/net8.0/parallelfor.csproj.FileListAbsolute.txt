@@ -1,0 +1,14 @@
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\bin\Debug\net8.0\parallelfor.exe
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\bin\Debug\net8.0\parallelfor.deps.json
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\bin\Debug\net8.0\parallelfor.runtimeconfig.json
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\bin\Debug\net8.0\parallelfor.dll
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\bin\Debug\net8.0\parallelfor.pdb
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\obj\Debug\net8.0\parallelfor.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\obj\Debug\net8.0\parallelfor.AssemblyInfoInputs.cache
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\obj\Debug\net8.0\parallelfor.AssemblyInfo.cs
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\obj\Debug\net8.0\parallelfor.csproj.CoreCompileInputs.cache
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\obj\Debug\net8.0\parallelfor.dll
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\obj\Debug\net8.0\refint\parallelfor.dll
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\obj\Debug\net8.0\parallelfor.pdb
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\obj\Debug\net8.0\parallelfor.genruntimeconfig.cache
+F:\DAM\C#\preavaluacio1\parallelfor\parallelfor\obj\Debug\net8.0\ref\parallelfor.dll

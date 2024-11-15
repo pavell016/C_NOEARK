@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DAM\\C#\\so4\\optimitzacio\\Optimitzar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8EED4-16F2-48E6-96DA-1C8383262CA7}|optimitzar\\optimitzar.csproj|f:\\dam\\c#\\so4\\optimitzacio\\optimitzar\\optimitzar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8EED4-16F2-48E6-96DA-1C8383262CA7}|optimitzar\\optimitzar.csproj|solutionrelative:optimitzar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DAM\\C#\\so4\\optimitzacio\\Optimitzar\\optimitzar\\Program.cs",
+              "RelativeDocumentMoniker": "optimitzar\\Program.cs",
+              "ToolTip": "F:\\DAM\\C#\\so4\\optimitzacio\\Optimitzar\\optimitzar\\Program.cs",
+              "RelativeToolTip": "optimitzar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:06:22.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

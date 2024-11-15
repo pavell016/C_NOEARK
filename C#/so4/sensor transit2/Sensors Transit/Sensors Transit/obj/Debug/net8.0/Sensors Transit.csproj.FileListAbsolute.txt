@@ -1,0 +1,14 @@
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\bin\Debug\net8.0\Sensors Transit.exe
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\bin\Debug\net8.0\Sensors Transit.deps.json
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\bin\Debug\net8.0\Sensors Transit.runtimeconfig.json
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\bin\Debug\net8.0\Sensors Transit.dll
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\bin\Debug\net8.0\Sensors Transit.pdb
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\obj\Debug\net8.0\Sensors Transit.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\obj\Debug\net8.0\Sensors Transit.AssemblyInfoInputs.cache
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\obj\Debug\net8.0\Sensors Transit.AssemblyInfo.cs
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\obj\Debug\net8.0\Sensors Transit.csproj.CoreCompileInputs.cache
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\obj\Debug\net8.0\Sensors Transit.dll
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\obj\Debug\net8.0\refint\Sensors Transit.dll
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\obj\Debug\net8.0\Sensors Transit.pdb
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\obj\Debug\net8.0\Sensors Transit.genruntimeconfig.cache
+F:\DAM\C#\so4\sensor transit2\Sensors Transit\Sensors Transit\obj\Debug\net8.0\ref\Sensors Transit.dll
