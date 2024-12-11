@@ -1,0 +1,5 @@
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\bin\Debug\procesos.exe
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\bin\Debug\procesos.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\bin\Debug\procesos.deps.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\bin\Debug\procesos.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\bin\Debug\procesos.pdb

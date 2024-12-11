@@ -1,0 +1,5 @@
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\inicials\processosINICI\processosINICI\bin\Debug\processosINICI.exe
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\inicials\processosINICI\processosINICI\bin\Debug\processosINICI.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\inicials\processosINICI\processosINICI\bin\Debug\processosINICI.deps.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\inicials\processosINICI\processosINICI\bin\Debug\processosINICI.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\inicials\processosINICI\processosINICI\bin\Debug\processosINICI.pdb

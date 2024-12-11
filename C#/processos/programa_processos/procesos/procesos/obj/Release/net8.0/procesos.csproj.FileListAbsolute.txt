@@ -1,0 +1,15 @@
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\bin\Release\net8.0\procesos.exe
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\bin\Release\net8.0\procesos.deps.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\bin\Release\net8.0\procesos.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\bin\Release\net8.0\procesos.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\bin\Release\net8.0\procesos.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\obj\Release\net8.0\procesos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\obj\Release\net8.0\procesos.AssemblyInfoInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\obj\Release\net8.0\procesos.AssemblyInfo.cs
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\obj\Release\net8.0\procesos.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\obj\Release\net8.0\procesos.sourcelink.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\obj\Release\net8.0\procesos.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\obj\Release\net8.0\refint\procesos.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\obj\Release\net8.0\procesos.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\obj\Release\net8.0\procesos.genruntimeconfig.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\processos\programa_processos\procesos\procesos\obj\Release\net8.0\ref\procesos.dll
