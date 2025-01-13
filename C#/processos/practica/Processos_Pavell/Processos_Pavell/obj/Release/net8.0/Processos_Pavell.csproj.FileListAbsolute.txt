@@ -1,0 +1,15 @@
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\bin\Release\net8.0\Processos_Pavell.exe
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\bin\Release\net8.0\Processos_Pavell.deps.json
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\bin\Release\net8.0\Processos_Pavell.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\bin\Release\net8.0\Processos_Pavell.dll
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\bin\Release\net8.0\Processos_Pavell.pdb
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\obj\Release\net8.0\Processos_Pavell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\obj\Release\net8.0\Processos_Pavell.AssemblyInfoInputs.cache
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\obj\Release\net8.0\Processos_Pavell.AssemblyInfo.cs
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\obj\Release\net8.0\Processos_Pavell.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\obj\Release\net8.0\Processos_Pavell.sourcelink.json
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\obj\Release\net8.0\Processos_Pavell.dll
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\obj\Release\net8.0\refint\Processos_Pavell.dll
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\obj\Release\net8.0\Processos_Pavell.pdb
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\obj\Release\net8.0\Processos_Pavell.genruntimeconfig.cache
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\obj\Release\net8.0\ref\Processos_Pavell.dll

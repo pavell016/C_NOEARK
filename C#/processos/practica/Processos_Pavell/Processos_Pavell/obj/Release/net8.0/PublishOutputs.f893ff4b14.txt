@@ -1,0 +1,5 @@
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\bin\Release\net8.0\publish\Processos_Pavell.exe
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\bin\Release\net8.0\publish\Processos_Pavell.dll
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\bin\Release\net8.0\publish\Processos_Pavell.deps.json
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\bin\Release\net8.0\publish\Processos_Pavell.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Processos_Pavell\Processos_Pavell\bin\Release\net8.0\publish\Processos_Pavell.pdb

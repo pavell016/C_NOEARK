@@ -1,0 +1,5 @@
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\bin\Debug\Processos_Pavell.exe
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\bin\Debug\Processos_Pavell.dll
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\bin\Debug\Processos_Pavell.deps.json
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\bin\Debug\Processos_Pavell.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\bin\Debug\Processos_Pavell.pdb

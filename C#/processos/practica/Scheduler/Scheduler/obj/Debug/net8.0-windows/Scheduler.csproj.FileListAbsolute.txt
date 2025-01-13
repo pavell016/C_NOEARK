@@ -1,0 +1,17 @@
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\bin\Debug\net8.0-windows\Scheduler.exe
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\bin\Debug\net8.0-windows\Scheduler.deps.json
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\bin\Debug\net8.0-windows\Scheduler.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\bin\Debug\net8.0-windows\Scheduler.dll
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\bin\Debug\net8.0-windows\Scheduler.pdb
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\Scheduler.Form1.resources
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\Scheduler.csproj.GenerateResource.cache
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\Scheduler.AssemblyInfoInputs.cache
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\Scheduler.AssemblyInfo.cs
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\Scheduler.sourcelink.json
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\Scheduler.dll
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\refint\Scheduler.dll
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\Scheduler.pdb
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\Scheduler.genruntimeconfig.cache
+C:\Users\programacion\Documents\GitHub\24-25-practica-processos-pavel\Scheduler\Scheduler\obj\Debug\net8.0-windows\ref\Scheduler.dll
