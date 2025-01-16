@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\programacion\\Documents\\GitHub\\C_NOEARK\\C#\\socols\\projecte_exemple\\Socols\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98B7D705-D4AA-42AB-BF85-F1C7B502170B}|Socols\\Socols.csproj|c:\\users\\programacion\\documents\\github\\c_noeark\\c#\\socols\\projecte_exemple\\socols\\socols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B7D705-D4AA-42AB-BF85-F1C7B502170B}|Socols\\Socols.csproj|solutionrelative:socols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9924BC6-8821-497C-8FC0-7DA2D07F6BF5}|socolClient\\socolClient.csproj|c:\\users\\programacion\\documents\\github\\c_noeark\\c#\\socols\\projecte_exemple\\socols\\socolclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9924BC6-8821-497C-8FC0-7DA2D07F6BF5}|socolClient\\socolClient.csproj|solutionrelative:socolclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\programacion\\Documents\\GitHub\\C_NOEARK\\C#\\socols\\projecte_exemple\\Socols\\socolClient\\Program.cs",
+              "RelativeDocumentMoniker": "socolClient\\Program.cs",
+              "ToolTip": "C:\\Users\\programacion\\Documents\\GitHub\\C_NOEARK\\C#\\socols\\projecte_exemple\\Socols\\socolClient\\Program.cs",
+              "RelativeToolTip": "socolClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:44:19.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\programacion\\Documents\\GitHub\\C_NOEARK\\C#\\socols\\projecte_exemple\\Socols\\Socols\\Program.cs",
+              "RelativeDocumentMoniker": "Socols\\Program.cs",
+              "ToolTip": "C:\\Users\\programacion\\Documents\\GitHub\\C_NOEARK\\C#\\socols\\projecte_exemple\\Socols\\Socols\\Program.cs",
+              "RelativeToolTip": "Socols\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:35:35.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

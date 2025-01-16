@@ -1,0 +1,15 @@
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\bin\Debug\net8.0\socolClient.exe
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\bin\Debug\net8.0\socolClient.deps.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\bin\Debug\net8.0\socolClient.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\bin\Debug\net8.0\socolClient.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\bin\Debug\net8.0\socolClient.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\obj\Debug\net8.0\socolClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\obj\Debug\net8.0\socolClient.AssemblyInfoInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\obj\Debug\net8.0\socolClient.AssemblyInfo.cs
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\obj\Debug\net8.0\socolClient.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\obj\Debug\net8.0\socolClient.sourcelink.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\obj\Debug\net8.0\socolClient.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\obj\Debug\net8.0\refint\socolClient.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\obj\Debug\net8.0\socolClient.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\obj\Debug\net8.0\socolClient.genruntimeconfig.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\socols\projecte_exemple\Socols\socolClient\obj\Debug\net8.0\ref\socolClient.dll

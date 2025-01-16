@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socols", "Socols\Socols.csproj", "{98B7D705-D4AA-42AB-BF85-F1C7B502170B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socolClient", "socolClient\socolClient.csproj", "{B9924BC6-8821-497C-8FC0-7DA2D07F6BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B7D705-D4AA-42AB-BF85-F1C7B502170B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B7D705-D4AA-42AB-BF85-F1C7B502170B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B7D705-D4AA-42AB-BF85-F1C7B502170B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B7D705-D4AA-42AB-BF85-F1C7B502170B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9924BC6-8821-497C-8FC0-7DA2D07F6BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9924BC6-8821-497C-8FC0-7DA2D07F6BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9924BC6-8821-497C-8FC0-7DA2D07F6BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9924BC6-8821-497C-8FC0-7DA2D07F6BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFB6D63-C807-43E3-B8A5-A09C036AF963}
+	EndGlobalSection
+EndGlobal
