@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parchis", "parchis\parchis.csproj", "{8E9DAB6D-2B60-4C11-A190-1CE80B5A7CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parchisCliente", "parchisCliente\parchisCliente.csproj", "{B60A4491-0EA2-40F3-940D-30EBC9433382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9DAB6D-2B60-4C11-A190-1CE80B5A7CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9DAB6D-2B60-4C11-A190-1CE80B5A7CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9DAB6D-2B60-4C11-A190-1CE80B5A7CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9DAB6D-2B60-4C11-A190-1CE80B5A7CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60A4491-0EA2-40F3-940D-30EBC9433382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60A4491-0EA2-40F3-940D-30EBC9433382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60A4491-0EA2-40F3-940D-30EBC9433382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60A4491-0EA2-40F3-940D-30EBC9433382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D6B5F1-ADEE-4365-B887-ADB7EAABE821}
+	EndGlobalSection
+EndGlobal

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Socols")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49591e5a4d385e12bb4e14bd5aa5b49cf6f11477")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc700d37e63f05f05808f474a7a585881f653f58")]
 [assembly: System.Reflection.AssemblyProductAttribute("Socols")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Socols")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

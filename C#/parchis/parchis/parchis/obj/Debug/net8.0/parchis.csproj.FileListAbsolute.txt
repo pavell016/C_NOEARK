@@ -1,0 +1,15 @@
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\bin\Debug\net8.0\parchis.exe
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\bin\Debug\net8.0\parchis.deps.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\bin\Debug\net8.0\parchis.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\bin\Debug\net8.0\parchis.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\bin\Debug\net8.0\parchis.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\obj\Debug\net8.0\parchis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\obj\Debug\net8.0\parchis.AssemblyInfoInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\obj\Debug\net8.0\parchis.AssemblyInfo.cs
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\obj\Debug\net8.0\parchis.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\obj\Debug\net8.0\parchis.sourcelink.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\obj\Debug\net8.0\parchis.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\obj\Debug\net8.0\refint\parchis.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\obj\Debug\net8.0\parchis.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\obj\Debug\net8.0\parchis.genruntimeconfig.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\parchis\parchis\parchis\obj\Debug\net8.0\ref\parchis.dll
