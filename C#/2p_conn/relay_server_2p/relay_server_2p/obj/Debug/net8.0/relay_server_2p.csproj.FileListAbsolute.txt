@@ -1,0 +1,15 @@
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\bin\Debug\net8.0\relay_server_2p.exe
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\bin\Debug\net8.0\relay_server_2p.deps.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\bin\Debug\net8.0\relay_server_2p.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\bin\Debug\net8.0\relay_server_2p.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\bin\Debug\net8.0\relay_server_2p.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\obj\Debug\net8.0\relay_server_2p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\obj\Debug\net8.0\relay_server_2p.AssemblyInfoInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\obj\Debug\net8.0\relay_server_2p.AssemblyInfo.cs
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\obj\Debug\net8.0\relay_server_2p.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\obj\Debug\net8.0\relay_server_2p.sourcelink.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\obj\Debug\net8.0\relay_server_2p.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\obj\Debug\net8.0\refint\relay_server_2p.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\obj\Debug\net8.0\relay_server_2p.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\obj\Debug\net8.0\relay_server_2p.genruntimeconfig.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\2p_conn\relay_server_2p\relay_server_2p\obj\Debug\net8.0\ref\relay_server_2p.dll

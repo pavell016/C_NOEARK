@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relay_server_2p", "relay_server_2p\relay_server_2p.csproj", "{F2C322D8-788B-48A2-8875-123EE2F1B748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{FB91502A-2E53-440F-8DBD-8630DF87F529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C322D8-788B-48A2-8875-123EE2F1B748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C322D8-788B-48A2-8875-123EE2F1B748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C322D8-788B-48A2-8875-123EE2F1B748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C322D8-788B-48A2-8875-123EE2F1B748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB91502A-2E53-440F-8DBD-8630DF87F529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB91502A-2E53-440F-8DBD-8630DF87F529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB91502A-2E53-440F-8DBD-8630DF87F529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB91502A-2E53-440F-8DBD-8630DF87F529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F9D98A7-4631-4950-8686-3D1962C0A9F1}
+	EndGlobalSection
+EndGlobal

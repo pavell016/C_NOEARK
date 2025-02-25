@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parchis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc700d37e63f05f05808f474a7a585881f653f58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1dfe423aa40ccffa83be12205c9e061841c3809")]
 [assembly: System.Reflection.AssemblyProductAttribute("parchis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parchis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
