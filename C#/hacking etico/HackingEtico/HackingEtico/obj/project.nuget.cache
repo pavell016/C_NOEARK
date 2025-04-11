@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dqanqSg2xtY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\programacion\\Documents\\GitHub\\C_NOEARK\\C#\\hacking etico\\HackingEtico\\HackingEtico\\HackingEtico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\programacion\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\programacion\\.nuget\\packages\\ssh.net\\2024.2.0\\ssh.net.2024.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

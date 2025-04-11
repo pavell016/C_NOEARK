@@ -1,0 +1,15 @@
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\bin\Debug\net8.0\examenSocols.exe
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\bin\Debug\net8.0\examenSocols.deps.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\bin\Debug\net8.0\examenSocols.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\bin\Debug\net8.0\examenSocols.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\bin\Debug\net8.0\examenSocols.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\obj\Debug\net8.0\examenSocols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\obj\Debug\net8.0\examenSocols.AssemblyInfoInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\obj\Debug\net8.0\examenSocols.AssemblyInfo.cs
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\obj\Debug\net8.0\examenSocols.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\obj\Debug\net8.0\examenSocols.sourcelink.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\obj\Debug\net8.0\examenSocols.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\obj\Debug\net8.0\refint\examenSocols.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\obj\Debug\net8.0\examenSocols.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\obj\Debug\net8.0\examenSocols.genruntimeconfig.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\examensocols\examenSocols\examenSocols\obj\Debug\net8.0\ref\examenSocols.dll

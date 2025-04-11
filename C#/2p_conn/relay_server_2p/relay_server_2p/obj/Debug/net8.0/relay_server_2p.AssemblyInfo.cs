@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("relay_server_2p")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3684d620e65c09c8034bcba2e548788343efba3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54104aec6f5139cd71aa4d5f4adc71f567b820bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("relay_server_2p")]
 [assembly: System.Reflection.AssemblyTitleAttribute("relay_server_2p")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
