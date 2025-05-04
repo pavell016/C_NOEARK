@@ -1,0 +1,15 @@
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\bin\Debug\net8.0\MissatgeEncriptat.exe
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\bin\Debug\net8.0\MissatgeEncriptat.deps.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\bin\Debug\net8.0\MissatgeEncriptat.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\bin\Debug\net8.0\MissatgeEncriptat.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\bin\Debug\net8.0\MissatgeEncriptat.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\obj\Debug\net8.0\MissatgeEncriptat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\obj\Debug\net8.0\MissatgeEncriptat.AssemblyInfoInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\obj\Debug\net8.0\MissatgeEncriptat.AssemblyInfo.cs
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\obj\Debug\net8.0\MissatgeEncriptat.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\obj\Debug\net8.0\MissatgeEncriptat.sourcelink.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\obj\Debug\net8.0\MissatgeEncriptat.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\obj\Debug\net8.0\refint\MissatgeEncriptat.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\obj\Debug\net8.0\MissatgeEncriptat.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\obj\Debug\net8.0\MissatgeEncriptat.genruntimeconfig.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej3\MissatgeEncriptat\MissatgeEncriptat\obj\Debug\net8.0\ref\MissatgeEncriptat.dll

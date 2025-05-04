@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissatgeEncriptat", "MissatgeEncriptat\MissatgeEncriptat.csproj", "{FC88B401-0B97-467D-9198-49911DCAD61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{09012B37-943D-4983-9122-FF47DCD3B805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC88B401-0B97-467D-9198-49911DCAD61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC88B401-0B97-467D-9198-49911DCAD61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC88B401-0B97-467D-9198-49911DCAD61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC88B401-0B97-467D-9198-49911DCAD61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09012B37-943D-4983-9122-FF47DCD3B805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09012B37-943D-4983-9122-FF47DCD3B805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09012B37-943D-4983-9122-FF47DCD3B805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09012B37-943D-4983-9122-FF47DCD3B805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94202967-CE5B-4C02-A121-C383C67B22EF}
+	EndGlobalSection
+EndGlobal

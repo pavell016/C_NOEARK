@@ -1,0 +1,15 @@
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\bin\Debug\net8.0\encriptacion.exe
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\bin\Debug\net8.0\encriptacion.deps.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\bin\Debug\net8.0\encriptacion.runtimeconfig.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\bin\Debug\net8.0\encriptacion.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\bin\Debug\net8.0\encriptacion.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\obj\Debug\net8.0\encriptacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\obj\Debug\net8.0\encriptacion.AssemblyInfoInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\obj\Debug\net8.0\encriptacion.AssemblyInfo.cs
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\obj\Debug\net8.0\encriptacion.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\obj\Debug\net8.0\encriptacion.sourcelink.json
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\obj\Debug\net8.0\encriptacion.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\obj\Debug\net8.0\refint\encriptacion.dll
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\obj\Debug\net8.0\encriptacion.pdb
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\obj\Debug\net8.0\encriptacion.genruntimeconfig.cache
+C:\Users\programacion\Documents\GitHub\C_NOEARK\C#\encriptacion\ej2\encriptacion\encriptacion\obj\Debug\net8.0\ref\encriptacion.dll
