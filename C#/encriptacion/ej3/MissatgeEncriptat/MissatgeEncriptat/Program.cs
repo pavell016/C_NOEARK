@@ -8,12 +8,12 @@ class Servidor
 {
     static void Main()
     {
-        TcpListener servidor = new TcpListener(IPAddress.Parse("127.0.0.1"), 50000);
-        servidor.Start();
+        TcpListener server = new TcpListener(IPAddress.Parse("127.0.0.1"), 50000);
+        server.Start();
         Console.WriteLine("Servidor iniciado. Esperando conexiones...");
 
-        TcpClient cliente = servidor.AcceptTcpClient();
-        NetworkStream stream = cliente.GetStream();
+        TcpClient cliente = server.AcceptTcpClient();
+        NetworkStream ns = cliente.GetStream();
 
         // 1. Generar par de claves RSA
         RSACryptoServiceProvider rsa = new RSACryptoServiceProvider();
@@ -21,11 +21,11 @@ class Servidor
 
         // 2. Enviar la clave pública al cliente
         byte[] clavePublicaBytes = Encoding.UTF8.GetBytes(clavePublicaXml);
-        stream.Write(clavePublicaBytes, 0, clavePublicaBytes.Length);
+        ns.Write(clavePublicaBytes, 0, clavePublicaBytes.Length);
 
         // 3. Recibir el mensaje cifrado del cliente
         byte[] buffer = new byte[256];
-        int bytesLeidos = stream.Read(buffer, 0, buffer.Length);
+        int bytesLeidos = ns.Read(buffer, 0, buffer.Length);
         byte[] mensajeCifrado = new byte[bytesLeidos];
         Array.Copy(buffer, 0, mensajeCifrado, 0, bytesLeidos);
 
@@ -35,8 +35,12 @@ class Servidor
         Console.WriteLine("Mensaje recibido y descifrado: " + mensaje);
 
         // Cerrar conexiones
-        stream.Close();
-        cliente.Close();
-        servidor.Stop();
+    }
+
+
+    public static void end(NetworkStream ns, TcpClient client, TcpListener server) { 
+        ns.Close();
+        client.Close();
+        server.Stop();
     }
 }
